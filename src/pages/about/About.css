@@ -1,7 +1,7 @@
 .about-box{
     display: flex;
    flex-direction: row;
-   background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+   background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\pages\about\bg.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
@@ -48,7 +48,7 @@
     .about-box{
        display: flex;
        flex-direction: column;
-       background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+       background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\pages\about\bg.jpg");
        background-size: cover;
        background-repeat: no-repeat;
        background-position: center;
