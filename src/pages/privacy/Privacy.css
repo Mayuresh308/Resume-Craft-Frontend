@@ -1,0 +1,92 @@
+.policy-box{
+    display: flex;
+    justify-content: center;
+   flex-direction: row;
+   background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   min-height: 100vh;
+}
+.policy-img img{
+    margin: 15px;
+    padding: 25px;
+    height: 400px;
+    width: 500px;
+    margin-top: 80px;
+    border-radius: 40%;
+}
+.policy-info{
+    margin-top: 20px;
+    width: 730px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+
+}
+.policy-info h1{
+    font-size: 50px;
+    color:#F4EFEA;
+    background: #9A161F;
+    width: 630px;
+    height: 70px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.policy-info p{
+    font-size: 13px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #9A161F;
+    background: #F4EFEA;
+    padding: 10px;
+    border-radius: 15px;
+
+
+}
+@media (max-width:600px){
+    .policy-box{
+       display: flex;
+       flex-direction: column;
+       background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+       min-height: 100vh;
+       align-items: center;
+    }
+    .policy-img img{
+        display: none;
+        margin: 15px;
+        margin-top: 80px;
+        padding: 25px;
+        height: 100px;
+        width: 300px;
+       border-radius: 30%;
+    }
+    .policy-info{
+        margin-top: 80px;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .policy-info h6{
+        font-size: 13px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: white;
+        padding: 10px;
+        
+    }
+    .policy-info h1{
+        font-size: 30px;
+        color:white;
+        background: black;
+        width: 300px;
+        text-align: center;
+    }
+}
