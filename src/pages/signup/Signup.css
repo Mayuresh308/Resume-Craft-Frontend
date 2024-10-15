@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: row;
-     background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+     background: url("bg.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
@@ -65,7 +65,7 @@
     align-items: center;
     justify-content: center;
     flex-direction:column;
-     background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+     background: url("bg.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;

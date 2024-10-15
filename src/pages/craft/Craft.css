@@ -1,6 +1,6 @@
 
 .craft {
-    background-image: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+    background-image: url("bg.jpg");
     background-size: cover;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -483,7 +483,7 @@
  
 @media (max-width:600px){
     .craft {
-    background-image: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+    background-image: url("bg.jpg");
     background-size: cover;
     background-repeat: repeat-y;
     background-attachment: fixed;

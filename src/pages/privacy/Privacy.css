@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
    flex-direction: row;
-   background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+   background: url("bg.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
@@ -50,7 +50,7 @@
     .policy-box{
        display: flex;
        flex-direction: column;
-       background: url("C:\Users\USER\Desktop\Working\Projects\Resume Builder\frontend\src\images\bg.jpg");
+       background: url("bg.jpg");
        background-size: cover;
        background-repeat: no-repeat;
        background-position: center;
