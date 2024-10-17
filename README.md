@@ -1,5 +1,5 @@
-[LIVE](url)
-[BACKEND](url)
+[LIVE](https://resume-craft-frontend.vercel.app/)
+[BACKEND](https://github.com/Mayuresh308/Resume-craft-Backend.git)
 ---------------------------------------------------
 ![Screenshot 2024-10-15 002358](https://github.com/user-attachments/assets/6418fa8a-499e-460c-9ac8-ee5cba80b884)
 ![Screenshot 2024-10-15 002819](https://github.com/user-attachments/assets/4aed90c0-374b-4a03-b83a-9f6dffdec025)
